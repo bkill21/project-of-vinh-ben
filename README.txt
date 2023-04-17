@@ -6,4 +6,4 @@ Ben built a lot of the error handling and key/value pair calling.
 
 But we essentially both worked on all of it together.
 
-Both worked indpendently after forking fridays basic functional code to lean up the project and add extra feeatures.
+Both worked indpendently after forking fridays basic functional code to clean up the project and add extra feeatures.
